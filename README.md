@@ -1,31 +1,32 @@
 <p align="center">
-    <img width="200" src="[https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png](https://github.com/PramodMadhubhashana/PramodMadhubhashana/blob/main/IMG-20231222-WA0076.jpg)">
+    <img width="70%" src="https://github.com/PramodMadhubhashana/PramodMadhubhashana/blob/main/img.png">
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+
+<h1 align="center">Hi , I'm Pramod Madhubhahana<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
+[![Github](https://img.shields.io/github/followers/PramodMadhubhashana?label=Follow&style=social)](https://github.com/PramodMadhubhashana)
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
-<div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
+
+<div align="left"> 
+I am Pramod Madhubhashana, an undergraduate student specializing in Software Engineering at the National Institute of Business Management. My academic journey began at Ruhunu Vijayabha National College. With a focus on Android and web development, I am passionate about creating impactful software solutions. Continuously honing my skills and exploring the latest technologies, I strive to innovate and contribute to the field of software development. :heart_eyes:
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
+---
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+-  🏫 I’m currently an undergraduate student at the National Institute of Business Management
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 📖 I’m currently learning Flutter, Kotlin  
   
 - 👯 I’m looking to collaborate on Proyectos
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
+- 💬 Ask me about HTML, CSS, Java, C#, JavaScript, Flutter, Kotlin
   
-- ⚡ Fun fact: Me gustan los girasoles.
+- ⚡ Fun fact: I enjoy listening to music, playing cricket, and traveling to new places.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
