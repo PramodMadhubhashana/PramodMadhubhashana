@@ -45,6 +45,10 @@ I am Pramod Madhubhashana, an undergraduate student specializing in Software Eng
   
 
   <br/><br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodmadhubhashana&show_icons=true&locale=en&layout=compact" alt="pramodmadhubhashana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramodmadhubhashana&show_icons=true&locale=en" alt="pramodmadhubhashana" /></p>
