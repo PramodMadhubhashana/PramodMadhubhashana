@@ -61,6 +61,9 @@ I am Pramod Madhubhashana, an undergraduate student specializing in Software Eng
   <img src="https://visitcount.itsvg.in/api?id=PramodMadhubhashana&label=Profile%20Views&pretty=false" />
 </a>
 
+[![Image of my-profile-view-counter](https://github.com/PramodMadhubhashana/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/PramodMadhubhashana/my-profile-view-counter/blob/master/readme/372372861/week.md)
+
+
 Credits: [Pramod Madhubhashana](https://github.com/PramodMadhubhashana)
 
 Last Edited on: 10/02/2024
