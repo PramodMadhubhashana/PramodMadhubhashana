@@ -21,7 +21,7 @@ I am Pramod Madhubhashana, an undergraduate student specializing in Software Eng
   
 - 👯 I’m looking to collaborate on Proyectos
   
-- 💬 Ask me about HTML, CSS, Java, C#, JavaScript, Flutter, Kotlin
+- 💬 Ask me about HTML, CSS, C, C#, JavaScript, Flutter, Kotlin
   
 - ⚡ Fun fact: I enjoy listening to music, playing cricket, and traveling to new places.
 
