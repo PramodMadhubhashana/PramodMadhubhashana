@@ -4,10 +4,6 @@
 
 <h1 align="center">Hi , I'm Pramod Madhubhahana<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-[![Github](https://img.shields.io/github/followers/PramodMadhubhashana?label=Follow&style=social)](https://github.com/PramodMadhubhashana)
-
-
-
 <div align="left"> 
 I am Pramod Madhubhashana, an undergraduate student specializing in Software Engineering at the National Institute of Business Management. My academic journey began at Ruhunu Vijayabha National College. With a focus on Android and web development, I am passionate about creating impactful software solutions. Continuously honing my skills and exploring the latest technologies, I strive to innovate and contribute to the field of software development. :heart_eyes:
 </div>
