@@ -2,7 +2,7 @@
     <img width="70%" src="https://github.com/PramodMadhubhashana/PramodMadhubhashana/blob/main/img.png">
 </p>
 
-<h1 align="center">Hi , I'm Pramod Madhubhahana<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center">Hi , I'm Pramod Madhubhashana<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <div align="left"> 
 I am Pramod Madhubhashana, an undergraduate student specializing in Software Engineering at the National Institute of Business Management. My academic journey began at Ruhunu Vijayabha National College. With a focus on Android and web development, I am passionate about creating impactful software solutions. Continuously honing my skills and exploring the latest technologies, I strive to innovate and contribute to the field of software development. :heart_eyes:
