@@ -22,6 +22,7 @@ I am Pramod Madhubhashana, an Associate Mobile Application Developer. My academi
   <br/>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<p align="center">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/> </a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
@@ -43,17 +44,20 @@ I am Pramod Madhubhashana, an Associate Mobile Application Developer. My academi
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+</p>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href="https://twitter.com/@p_madhubhashana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@p_madhubhashana" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pramodmadhubhashana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodmadhubhashana" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19413162/pramod-madhubhashana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19413162/pramod-madhubhashana" height="30" width="40" /></a>
-<a href="https://kaggle.com/pramod madhubhashana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pramod madhubhashana" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100070207129104&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070207129104&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/pramod_madhubhashana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramod_madhubhashana" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCl2wkyTBbjTIDY0ITS5TXGA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pramodmadhubhashana" height="30" width="40" /></a>
-<a href="https://discord.gg/pramod_madhubhashana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pramod_madhubhashana" height="30" width="40" /></a>
+<p align="left">
+<a href="https://twitter.com/@p_madhubhashana" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@p_madhubhashana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pramodmadhubhashana" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodmadhubhashana" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19413162/pramod-madhubhashana" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19413162/pramod-madhubhashana" height="30" width="40" /></a>
+<a href="https://kaggle.com/pramod madhubhashana" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pramod madhubhashana" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100070207129104&mibextid=zbwkwl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070207129104&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://instagram.com/pramod_madhubhashana" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramod_madhubhashana" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCl2wkyTBbjTIDY0ITS5TXGA" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pramodmadhubhashana" height="30" width="40" /></a>
+<a href="https://discord.gg/pramod_madhubhashana" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pramod_madhubhashana" height="30" width="40" /></a>
+</p>
   
 
   <br/><br/>
