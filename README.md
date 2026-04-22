@@ -65,11 +65,11 @@ I am Pramod Madhubhashana, an Associate Mobile Application Developer. My academi
 ## <b> Github Stats </b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">
 <br>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodmadhubhashana&show_icons=true&locale=en&layout=compact" alt="pramodmadhubhashana" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodmadhubhashana&show_icons=true&locale=en&layout=compact" alt="pramodmadhubhashana" width="300" height="165" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramodmadhubhashana&show_icons=true&locale=en" alt="pramodmadhubhashana" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramodmadhubhashana&show_icons=true&locale=en" alt="pramodmadhubhashana" width="495" height="195" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodmadhubhashana&" alt="pramodmadhubhashana" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodmadhubhashana&" alt="pramodmadhubhashana" width="495" height="195" /></p>
 
 
 -----
