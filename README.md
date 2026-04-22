@@ -93,6 +93,18 @@ I am Pramod Madhubhashana, an Associate Mobile Application Developer. My academi
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/><br/>Arduino
     </td>
   </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/><br/>Supabase
+    </td>
+    <td align="center" width="80">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/><br/>Postman
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/Mobile%20Security-000000?style=flat&logo=owasp&logoColor=white" alt="mobile security" width="80" height="28"/><br/>Mobile Security
+    </td>
+
+  </tr>
 </table>
 
 
