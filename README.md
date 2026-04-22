@@ -156,8 +156,4 @@ I am Pramod Madhubhashana, an Associate Mobile Application Developer. My academi
 
 
 -----
-<img src="https://visitcount.itsvg.in/api?id=PramodMadhubhashana&label=Profile%20Views&pretty=false" width="150" height="20" />
-
-Credits: [Pramod Madhubhashana](https://github.com/PramodMadhubhashana)
-
-Last Edited on: 22/04/2026
+<img src="https://img.shields.io/badge/Last%20Updated-22%2F04%2F2026-blue?style=flat&logo=github" alt="Last Updated" />
