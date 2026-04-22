@@ -48,7 +48,7 @@ I am Pramod Madhubhashana, an Associate Mobile Application Developer. My academi
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/@p_madhubhashana" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@p_madhubhashana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pramodmadhubhashana" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodmadhubhashana" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19413162/pramod-madhubhashana" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19413162/pramod-madhubhashana" height="30" width="40" /></a>
