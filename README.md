@@ -1,8 +1,8 @@
 <p align="center">
-    <img width="70%" src="https://github.com/PramodMadhubhashana/PramodMadhubhashana/blob/main/img.png">
+    <img width="70%" height="auto" src="https://github.com/PramodMadhubhashana/PramodMadhubhashana/blob/main/img.png">
 </p>
 
-<h1 align="center">Hi , I'm Pramod Madhubhashana<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center">Hi , I'm Pramod Madhubhashana<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"> </h1>
 
 <div align="left"> 
 I am Pramod Madhubhashana, an Associate Mobile Application Developer. My academic journey began at Ruhunu Vijayabha National College, and I specialized in Software Engineering at the National Institute of Business Management. With a focus on Android and iOS mobile app development, I am passionate about creating impactful and user-friendly mobile solutions. Continuously honing my skills and exploring the latest technologies, I strive to innovate and contribute to the field of mobile software development. :heart_eyes:
@@ -21,7 +21,7 @@ I am Pramod Madhubhashana, an Associate Mobile Application Developer. My academi
 
   <br/>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" height="32"> </h2>
 <p align="center">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/> </a>
@@ -47,7 +47,7 @@ I am Pramod Madhubhashana, an Associate Mobile Application Developer. My academi
 </p>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" height="45"> </h2>
 <p align="center">
 <a href="https://twitter.com/@p_madhubhashana" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@p_madhubhashana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pramodmadhubhashana" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodmadhubhashana" height="30" width="40" /></a>
@@ -62,7 +62,7 @@ I am Pramod Madhubhashana, an Associate Mobile Application Developer. My academi
 
   <br/><br/>
 
-## <b> Github Stats </b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+## <b> Github Stats </b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">
 <br>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodmadhubhashana&show_icons=true&locale=en&layout=compact" alt="pramodmadhubhashana" /></p>
@@ -74,7 +74,7 @@ I am Pramod Madhubhashana, an Associate Mobile Application Developer. My academi
 
 -----
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=PramodMadhubhashana&label=Profile%20Views&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=PramodMadhubhashana&label=Profile%20Views&pretty=false" width="150" height="20" />
 </a>
 
 Credits: [Pramod Madhubhashana](https://github.com/PramodMadhubhashana)
